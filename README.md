@@ -1,4 +1,5 @@
 # proyecto
 narcos
-Dios.ros.md
-veneno.iot.patch.md
+## Dios.ros.md
+## Veneno.iot.patch.md
+### pip install flake8
